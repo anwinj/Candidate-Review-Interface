@@ -14,7 +14,8 @@ To deploy this project run
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1JTbAeYyygskYWobdMMq3md-xq_554Csm/view?usp=sharing)
+![FireShot Capture 021 - Candidate Review Interface - candidate-review-interface-alpha vercel app](https://github.com/anwinj/Candidate-Review-Interface/assets/42896100/72cc1d27-80a7-414a-b6de-229cf6d18826)
+
 
 
 ## Features
